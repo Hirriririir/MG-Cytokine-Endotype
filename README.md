@@ -1,7 +1,7 @@
 # MG Cytokine Endotype
 > A plasma cytokine/complement/chemokine endotype investigation on myasthenia gravis 
 
-![Fig 1-01](./Figures/Fig 1-01.png)
+![Fig 1-01](./Figures/Workflow.png)
 
 ## Data source
 
