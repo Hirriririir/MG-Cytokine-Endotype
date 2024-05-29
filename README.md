@@ -24,7 +24,7 @@
 The original dataset can be downloaded from the release section on the right panel.
 
 - **Endotype_scanpy.xlsx** (raw data)
-  - **Integration.endotype **(plasma biomarker data, pg/ml)
+  - **Integration.endotype**(plasma biomarker data, pg/ml)
   - **Integration.meta** (meta data)
 - **adata_endotype.h5ad** (Scanpy processed data)
 
