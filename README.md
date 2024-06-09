@@ -21,7 +21,7 @@
 
 ## Dataset description 
 
-The original dataset can be downloaded from the release section on the right panel.
+The original dataset is in the Data folder.
 
 - **Endotype_scanpy.xlsx** (raw data)
   - **Integration.endotype** (plasma biomarker data, pg/ml)
